@@ -1,7 +1,7 @@
 
 # Лекции:
 * [Лекция](https://github.com/AlexanderZiyatdinov/ML-UrFU/blob/main/01-Intro_and_knn/lecture/01-lecture.ipynb)
-* [Запись лекции](https://github.com/AlexanderZiyatdinov/ML-UrFU/blob/main/01-Intro%20and%20knn/hw/01-hw.ipynb)
+* [Запись лекции](https://fiit.ktalk.ru/recordings/tYUSKPUM4JZLIStP4YWn)
 
 # Практика:
 * [Запись практики](https://fiit.ktalk.ru/recordings/ds6mbk3iOcKuUbSHW4dO)
